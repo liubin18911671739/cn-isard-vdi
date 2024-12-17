@@ -1,4 +1,4 @@
-# CN-Isard-VDI
+# CN-IsardVDI
 
 <img align="right" src="frontend/src/assets/logo.svg" alt="CECD Logo" width="150px;">
 
@@ -22,13 +22,13 @@ IsardVDI是一个免费的桌面虚拟化平台，其特点为:
   + *Guacamole RDP* (web)
 - **GPU支持**: 支持Nvidia GPU 虚拟化
   
-CN-Isard-VDI云桌面示例ISO，百度网盘链接: https://pan.baidu.com/s/1RB5vnFpfOPGcWy1Es7T5FQ?pwd=vxs6 提取码: vxs6 
+CN-IsardVDI云桌面示例ISO，百度网盘链接: https://pan.baidu.com/s/1RB5vnFpfOPGcWy1Es7T5FQ?pwd=vxs6 提取码: vxs6 
 
 用户名：admin
 
 密码：admin@cecd
 
-CN-Isard-VDI云桌面开发时使用的docker镜像环境，百度网盘链接: https://pan.baidu.com/s/1MC5nCBXHCo2FwZc_RDka7A?pwd=3qiq 提取码: 3qiq 
+CN-IsardVDI云桌面开发时使用的docker镜像环境，百度网盘链接: https://pan.baidu.com/s/1MC5nCBXHCo2FwZc_RDka7A?pwd=3qiq 提取码: 3qiq 
 
 前端界面：
 
